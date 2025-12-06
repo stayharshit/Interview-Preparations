@@ -16,22 +16,33 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/stayharshit/Interview-Preparations/tree/master/0094-binary-tree-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/stayharshit/Interview-Preparations/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/stayharshit/Interview-Preparations/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/stayharshit/Interview-Preparations/tree/master/0513-find-bottom-left-tree-value) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/stayharshit/Interview-Preparations/tree/master/0094-binary-tree-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/stayharshit/Interview-Preparations/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/stayharshit/Interview-Preparations/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/stayharshit/Interview-Preparations/tree/master/0513-find-bottom-left-tree-value) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/stayharshit/Interview-Preparations/tree/master/0094-binary-tree-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/stayharshit/Interview-Preparations/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/stayharshit/Interview-Preparations/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/stayharshit/Interview-Preparations/tree/master/0513-find-bottom-left-tree-value) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/stayharshit/Interview-Preparations/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/stayharshit/Interview-Preparations/tree/master/0513-find-bottom-left-tree-value) |
+## String
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/stayharshit/Interview-Preparations/tree/master/0257-binary-tree-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/stayharshit/Interview-Preparations/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
